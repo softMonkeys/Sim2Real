@@ -3682,7 +3682,7 @@ MonoBehaviour:
     totalIterations: 50
     instanceCount: 1
     instanceIndex: 0
-    framesPerIteration: 0
+    framesPerIteration: 1
   references:
     version: 1
     00000000:
@@ -4038,7 +4038,7 @@ MonoBehaviour:
           m_Sampler:
             id: 9
           m_Categories:
-          - {fileID: 700018673}
+          - {fileID: 213214753}
     00000004:
       type: {class: RotationRandomizer, ns: UnityEngine.Experimental.Perception.Randomization.Randomizers.SampleRandomizers, asm: Unity.Perception.Runtime}
       data:
@@ -4104,15 +4104,15 @@ MonoBehaviour:
       data:
         <baseSeed>k__BackingField: 2095702272
         <range>k__BackingField:
-          minimum: -45
-          maximum: 45
+          minimum: -30
+          maximum: 30
     0000000B:
       type: {class: UniformSampler, ns: UnityEngine.Experimental.Perception.Randomization.Samplers, asm: Unity.Perception.Runtime}
       data:
         <baseSeed>k__BackingField: 3480460800
         <range>k__BackingField:
-          minimum: -90
-          maximum: 90
+          minimum: -30
+          maximum: 30
     0000000C:
       type: {class: UniformSampler, ns: UnityEngine.Experimental.Perception.Randomization.Samplers, asm: Unity.Perception.Runtime}
       data:
@@ -4196,8 +4196,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 25c6428e316d70c4bae96a637dcfe01e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  minIntensity: 0
-  maxIntensity: 0.4
+  minIntensity: 0.5
+  maxIntensity: 3
 --- !u!108 &2104797138
 Light:
   m_ObjectHideFlags: 0

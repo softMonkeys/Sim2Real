@@ -1,6 +1,6 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Users/benja/Desktop/code/Packages/manifest.json
+    m_FilePath: C:/Users/benja/unityProject/CMPT-726-Final-Project/code/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -8,7 +8,7 @@ m_ProjectFiles:
       ticks: 637422126207830572
     m_Hash: 3219418265
   m_LockFileStatus:
-    m_FilePath: C:/Users/benja/Desktop/code/Packages/packages-lock.json
+    m_FilePath: C:/Users/benja/unityProject/CMPT-726-Final-Project/code/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -25,7 +25,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.3.9
       source: 1
-      resolvedPath: C:\Users\benja\Desktop\code\Library\PackageCache\com.unity.collab-proxy@1.3.9
+      resolvedPath: C:\Users\benja\unityProject\CMPT-726-Final-Project\code\Library\PackageCache\com.unity.collab-proxy@1.3.9
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Unity Collaborate
@@ -120,7 +120,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.1
       source: 1
-      resolvedPath: C:\Users\benja\Desktop\code\Library\PackageCache\com.unity.ide.rider@1.2.1
+      resolvedPath: C:\Users\benja\unityProject\CMPT-726-Final-Project\code\Library\PackageCache\com.unity.ide.rider@1.2.1
       assetPath: Packages/com.unity.ide.rider
       name: com.unity.ide.rider
       displayName: JetBrains Rider Editor
@@ -219,7 +219,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.3
       source: 1
-      resolvedPath: C:\Users\benja\Desktop\code\Library\PackageCache\com.unity.ide.visualstudio@2.0.3
+      resolvedPath: C:\Users\benja\unityProject\CMPT-726-Final-Project\code\Library\PackageCache\com.unity.ide.visualstudio@2.0.3
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
       displayName: Visual Studio Editor
@@ -288,7 +288,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.7
       source: 1
-      resolvedPath: C:\Users\benja\Desktop\code\Library\PackageCache\com.unity.ide.vscode@1.0.7
+      resolvedPath: C:\Users\benja\unityProject\CMPT-726-Final-Project\code\Library\PackageCache\com.unity.ide.vscode@1.0.7
       assetPath: Packages/com.unity.ide.vscode
       name: com.unity.ide.vscode
       displayName: Visual Studio Code Editor
@@ -357,7 +357,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 0.5.0-preview.1
       source: 1
-      resolvedPath: C:\Users\benja\Desktop\code\Library\PackageCache\com.unity.perception@0.5.0-preview.1
+      resolvedPath: C:\Users\benja\unityProject\CMPT-726-Final-Project\code\Library\PackageCache\com.unity.perception@0.5.0-preview.1
       assetPath: Packages/com.unity.perception
       name: com.unity.perception
       displayName: Perception
@@ -475,7 +475,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 8.2.0
       source: 1
-      resolvedPath: C:\Users\benja\Desktop\code\Library\PackageCache\com.unity.render-pipelines.universal@8.2.0
+      resolvedPath: C:\Users\benja\unityProject\CMPT-726-Final-Project\code\Library\PackageCache\com.unity.render-pipelines.universal@8.2.0
       assetPath: Packages/com.unity.render-pipelines.universal
       name: com.unity.render-pipelines.universal
       displayName: Universal RP
@@ -576,7 +576,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.1.18
       source: 1
-      resolvedPath: C:\Users\benja\Desktop\code\Library\PackageCache\com.unity.test-framework@1.1.18
+      resolvedPath: C:\Users\benja\unityProject\CMPT-726-Final-Project\code\Library\PackageCache\com.unity.test-framework@1.1.18
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -662,7 +662,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.1
       source: 1
-      resolvedPath: C:\Users\benja\Desktop\code\Library\PackageCache\com.unity.textmeshpro@3.0.1
+      resolvedPath: C:\Users\benja\unityProject\CMPT-726-Final-Project\code\Library\PackageCache\com.unity.textmeshpro@3.0.1
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
       displayName: TextMeshPro
@@ -809,7 +809,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.3.6
       source: 1
-      resolvedPath: C:\Users\benja\Desktop\code\Library\PackageCache\com.unity.timeline@1.3.6
+      resolvedPath: C:\Users\benja\unityProject\CMPT-726-Final-Project\code\Library\PackageCache\com.unity.timeline@1.3.6
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -2759,7 +2759,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.0
       source: 1
-      resolvedPath: C:\Users\benja\Desktop\code\Library\PackageCache\com.unity.ext.nunit@1.0.0
+      resolvedPath: C:\Users\benja\unityProject\CMPT-726-Final-Project\code\Library\PackageCache\com.unity.ext.nunit@1.0.0
       assetPath: Packages/com.unity.ext.nunit
       name: com.unity.ext.nunit
       displayName: Custom NUnit
@@ -2818,7 +2818,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 8.2.0
       source: 1
-      resolvedPath: C:\Users\benja\Desktop\code\Library\PackageCache\com.unity.render-pipelines.core@8.2.0
+      resolvedPath: C:\Users\benja\unityProject\CMPT-726-Final-Project\code\Library\PackageCache\com.unity.render-pipelines.core@8.2.0
       assetPath: Packages/com.unity.render-pipelines.core
       name: com.unity.render-pipelines.core
       displayName: Core RP Library
@@ -2879,7 +2879,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 8.2.0
       source: 1
-      resolvedPath: C:\Users\benja\Desktop\code\Library\PackageCache\com.unity.shadergraph@8.2.0
+      resolvedPath: C:\Users\benja\unityProject\CMPT-726-Final-Project\code\Library\PackageCache\com.unity.shadergraph@8.2.0
       assetPath: Packages/com.unity.shadergraph
       name: com.unity.shadergraph
       displayName: Shader Graph
@@ -3025,7 +3025,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.1.2
       source: 1
-      resolvedPath: C:\Users\benja\Desktop\code\Library\PackageCache\com.unity.nuget.newtonsoft-json@1.1.2
+      resolvedPath: C:\Users\benja\unityProject\CMPT-726-Final-Project\code\Library\PackageCache\com.unity.nuget.newtonsoft-json@1.1.2
       assetPath: Packages/com.unity.nuget.newtonsoft-json
       name: com.unity.nuget.newtonsoft-json
       displayName: Newtonsoft Json
@@ -3081,7 +3081,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 0.8.0-preview.8
       source: 1
-      resolvedPath: C:\Users\benja\Desktop\code\Library\PackageCache\com.unity.entities@0.8.0-preview.8
+      resolvedPath: C:\Users\benja\unityProject\CMPT-726-Final-Project\code\Library\PackageCache\com.unity.entities@0.8.0-preview.8
       assetPath: Packages/com.unity.entities
       name: com.unity.entities
       displayName: Entities
@@ -3273,7 +3273,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 0.0.10-preview.9
       source: 1
-      resolvedPath: C:\Users\benja\Desktop\code\Library\PackageCache\com.unity.simulation.client@0.0.10-preview.9
+      resolvedPath: C:\Users\benja\unityProject\CMPT-726-Final-Project\code\Library\PackageCache\com.unity.simulation.client@0.0.10-preview.9
       assetPath: Packages/com.unity.simulation.client
       name: com.unity.simulation.client
       displayName: Unity Simulation Client
@@ -3333,7 +3333,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 0.0.10-preview.13
       source: 1
-      resolvedPath: C:\Users\benja\Desktop\code\Library\PackageCache\com.unity.simulation.capture@0.0.10-preview.13
+      resolvedPath: C:\Users\benja\unityProject\CMPT-726-Final-Project\code\Library\PackageCache\com.unity.simulation.capture@0.0.10-preview.13
       assetPath: Packages/com.unity.simulation.capture
       name: com.unity.simulation.capture
       displayName: Unity Simulation Capture
@@ -3402,7 +3402,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 0.0.10-preview.19
       source: 1
-      resolvedPath: C:\Users\benja\Desktop\code\Library\PackageCache\com.unity.simulation.core@0.0.10-preview.19
+      resolvedPath: C:\Users\benja\unityProject\CMPT-726-Final-Project\code\Library\PackageCache\com.unity.simulation.core@0.0.10-preview.19
       assetPath: Packages/com.unity.simulation.core
       name: com.unity.simulation.core
       displayName: Unity Simulation Core
@@ -3475,7 +3475,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 4.0.9
       source: 1
-      resolvedPath: C:\Users\benja\Desktop\code\Library\PackageCache\com.unity.searcher@4.0.9
+      resolvedPath: C:\Users\benja\unityProject\CMPT-726-Final-Project\code\Library\PackageCache\com.unity.searcher@4.0.9
       assetPath: Packages/com.unity.searcher
       name: com.unity.searcher
       displayName: Searcher
@@ -3525,7 +3525,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.3.0-preview.5
       source: 1
-      resolvedPath: C:\Users\benja\Desktop\code\Library\PackageCache\com.unity.burst@1.3.0-preview.5
+      resolvedPath: C:\Users\benja\unityProject\CMPT-726-Final-Project\code\Library\PackageCache\com.unity.burst@1.3.0-preview.5
       assetPath: Packages/com.unity.burst
       name: com.unity.burst
       displayName: Burst
@@ -3713,7 +3713,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 0.10.4-preview
       source: 1
-      resolvedPath: C:\Users\benja\Desktop\code\Library\PackageCache\com.unity.properties@0.10.4-preview
+      resolvedPath: C:\Users\benja\unityProject\CMPT-726-Final-Project\code\Library\PackageCache\com.unity.properties@0.10.4-preview
       assetPath: Packages/com.unity.properties
       name: com.unity.properties
       displayName: Properties
@@ -3844,7 +3844,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.1.0
       source: 1
-      resolvedPath: C:\Users\benja\Desktop\code\Library\PackageCache\com.unity.mathematics@1.1.0
+      resolvedPath: C:\Users\benja\unityProject\CMPT-726-Final-Project\code\Library\PackageCache\com.unity.mathematics@1.1.0
       assetPath: Packages/com.unity.mathematics
       name: com.unity.mathematics
       displayName: Mathematics
@@ -3895,7 +3895,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 0.6.4-preview
       source: 1
-      resolvedPath: C:\Users\benja\Desktop\code\Library\PackageCache\com.unity.serialization@0.6.4-preview
+      resolvedPath: C:\Users\benja\unityProject\CMPT-726-Final-Project\code\Library\PackageCache\com.unity.serialization@0.6.4-preview
       assetPath: Packages/com.unity.serialization
       name: com.unity.serialization
       displayName: Serialization
@@ -4021,7 +4021,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.3.3-preview
       source: 1
-      resolvedPath: C:\Users\benja\Desktop\code\Library\PackageCache\com.unity.test-framework.performance@1.3.3-preview
+      resolvedPath: C:\Users\benja\unityProject\CMPT-726-Final-Project\code\Library\PackageCache\com.unity.test-framework.performance@1.3.3-preview
       assetPath: Packages/com.unity.test-framework.performance
       name: com.unity.test-framework.performance
       displayName: Performance testing API
@@ -4140,7 +4140,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 0.1.5-preview
       source: 1
-      resolvedPath: C:\Users\benja\Desktop\code\Library\PackageCache\nuget.mono-cecil@0.1.5-preview
+      resolvedPath: C:\Users\benja\unityProject\CMPT-726-Final-Project\code\Library\PackageCache\nuget.mono-cecil@0.1.5-preview
       assetPath: Packages/nuget.mono-cecil
       name: nuget.mono-cecil
       displayName: Mono Cecil
@@ -4190,7 +4190,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 0.2.7-preview.11
       source: 1
-      resolvedPath: C:\Users\benja\Desktop\code\Library\PackageCache\com.unity.jobs@0.2.7-preview.11
+      resolvedPath: C:\Users\benja\unityProject\CMPT-726-Final-Project\code\Library\PackageCache\com.unity.jobs@0.2.7-preview.11
       assetPath: Packages/com.unity.jobs
       name: com.unity.jobs
       displayName: Jobs
@@ -4321,7 +4321,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.6.4-preview
       source: 1
-      resolvedPath: C:\Users\benja\Desktop\code\Library\PackageCache\com.unity.scriptablebuildpipeline@1.6.4-preview
+      resolvedPath: C:\Users\benja\unityProject\CMPT-726-Final-Project\code\Library\PackageCache\com.unity.scriptablebuildpipeline@1.6.4-preview
       assetPath: Packages/com.unity.scriptablebuildpipeline
       name: com.unity.scriptablebuildpipeline
       displayName: Scriptable Build Pipeline
@@ -4451,7 +4451,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 0.2.1-preview.4
       source: 1
-      resolvedPath: C:\Users\benja\Desktop\code\Library\PackageCache\com.unity.platforms@0.2.1-preview.4
+      resolvedPath: C:\Users\benja\unityProject\CMPT-726-Final-Project\code\Library\PackageCache\com.unity.platforms@0.2.1-preview.4
       assetPath: Packages/com.unity.platforms
       name: com.unity.platforms
       displayName: Platforms
@@ -4665,7 +4665,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 0.7.0-preview.2
       source: 1
-      resolvedPath: C:\Users\benja\Desktop\code\Library\PackageCache\com.unity.collections@0.7.0-preview.2
+      resolvedPath: C:\Users\benja\unityProject\CMPT-726-Final-Project\code\Library\PackageCache\com.unity.collections@0.7.0-preview.2
       assetPath: Packages/com.unity.collections
       name: com.unity.collections
       displayName: Collections
@@ -4803,5 +4803,5 @@ m_PackageAssets:
         path: 
   m_LocalPackages:
     m_LocalFileStatus: []
-m_ProjectPath: C:/Users/benja/Desktop/code/Packages
+m_ProjectPath: C:/Users/benja/unityProject/CMPT-726-Final-Project/code/Packages
 m_EditorVersion: 2020.1.12f1 (55b56f0a86e3)

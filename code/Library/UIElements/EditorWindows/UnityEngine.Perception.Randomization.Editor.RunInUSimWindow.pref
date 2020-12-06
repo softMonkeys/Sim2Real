@@ -17,6 +17,6 @@ MonoBehaviour:
   - __PanelContainer__rootVisualContainer__RunInUSim_total-iterations__UnityEditor.UIElements.IntegerField
   - __PanelContainer__rootVisualContainer__RunInUSim_instance-count__UnityEditor.UIElements.IntegerField
   m_Values:
-  - '{"m_Value":"FirstRuns"}'
-  - '{"m_Value":1000}'
-  - '{"m_Value":3}'
+  - '{"m_Value":"blackmantry2"}'
+  - '{"m_Value":50}'
+  - '{"m_Value":1}'
