@@ -21,7 +21,7 @@ All of our trained models are saved in this [link](https://drive.google.com/driv
 
 ### Facial Expression Recognition with OpenFace and Neural Network
 ![OpenFace](https://github.com/softMonkeys/Sim2Real/blob/master/Images/openface.PNG)
-Go to `MachineLearningCode` -> `baselineML` and open `.ipynb` files by [Google Colab)](https://colab.research.google.com/). Follow the documentation we have wrote in the code.
+Go to `MachineLearningCode` -> `baselineML` and open `.ipynb` files by [Google Colab](https://colab.research.google.com/). Follow the documentation we have wrote in the code.
 
 ### End-to-End Model
 ![End-to-End](https://github.com/softMonkeys/Sim2Real/blob/master/Images/entoend.PNG)
