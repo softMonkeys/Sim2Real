@@ -1,5 +1,7 @@
 # Sim2Real: Human Social Signal Detection
 
+![data](https://github.com/softMonkeys/Sim2Real/blob/master/Images/poster.PNG)
+
 ## Introduction
 
 Sim2Real refers to techniques that can be used to transfer knowledge from one environment (e.g in simulation) to another (e.g. real world). While Sim2Real has been applied to various fields such as object recognition, human pose estimation etc. it has never been applied to recognizing human social signals. We want to deliver a high accuracy machine learning model to our supervisor Angelica Lim (angelica@sfu.ca) that can accurately recognize the following 3 facial expressions: Angry, Crying and Happy.
@@ -12,4 +14,17 @@ To generate the synthetic data, go to open `UnitySimulationCode` by Unity versio
 * **Happy**: `black_female_happy_Pivot` `black_male_happy_Pivot` `old_caicasian_female_happy_Pivot` `old_caicasian_male_happy_Pivot` `young_asian_female_happy_Pivot` `young_asian_male_happy_Pivot`
 * **Crying**: `black_female_happy_Pivot` `black_male_happy_Pivot` `old_caicasian_female_happy_Pivot` `old_caicasian_male_happy_Pivot` `young_asian_female_happy_Pivot` `young_asian_male_happy_Pivot`
 If you do not have Unity Simulation member, you can still generate the data by using your local machine. Under _**Simulation Scenario**_ ->  _**Inspector**_ ->  _**Fixed Length Scenario**_ ->  _**Constants**_ ->  _**Total Iterations**_ has a default value of 50. It means it will generate 50 images after we clicked the  _**Play**_ button on top of the Unity editior. Change this value based on your requirement. You can find the path for the result under _**Console**_
+
 ![data](https://github.com/softMonkeys/Sim2Real/blob/master/Images/datas.PNG)
+
+## Machine Learning Models 
+
+All of our trained models are saved in this [link](https://drive.google.com/drive/folders/1ZyiamkaR6Wp5YSX2uXieuKGIF2VWBVKp?usp=sharing)
+
+### Facial Expression Recognition with OpenFace and Neural Network
+![OpenFace](https://github.com/softMonkeys/Sim2Real/blob/master/Images/openface.PNG)
+Go to `MachineLearningCode` -> `baselineML` and open `.ipynb` files by [Google Colab](https://colab.research.google.com/). Follow the documentation we have wrote in the code.
+
+### End-to-End Model
+![End-to-End](https://github.com/softMonkeys/Sim2Real/blob/master/Images/entoend.PNG)
+Go to `MachineLearningCode` -> `end_to_end_ML` and open .ipynb files by Google Colab. Follow the documentation we have wrote in the code.
