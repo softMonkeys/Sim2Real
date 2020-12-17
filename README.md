@@ -12,4 +12,14 @@ To generate the synthetic data, go to open `UnitySimulationCode` by Unity versio
 * **Happy**: `black_female_happy_Pivot` `black_male_happy_Pivot` `old_caicasian_female_happy_Pivot` `old_caicasian_male_happy_Pivot` `young_asian_female_happy_Pivot` `young_asian_male_happy_Pivot`
 * **Crying**: `black_female_happy_Pivot` `black_male_happy_Pivot` `old_caicasian_female_happy_Pivot` `old_caicasian_male_happy_Pivot` `young_asian_female_happy_Pivot` `young_asian_male_happy_Pivot`
 If you do not have Unity Simulation member, you can still generate the data by using your local machine. Under _**Simulation Scenario**_ ->  _**Inspector**_ ->  _**Fixed Length Scenario**_ ->  _**Constants**_ ->  _**Total Iterations**_ has a default value of 50. It means it will generate 50 images after we clicked the  _**Play**_ button on top of the Unity editior. Change this value based on your requirement. You can find the path for the result under _**Console**_
+
 ![data](https://github.com/softMonkeys/Sim2Real/blob/master/Images/datas.PNG)
+
+## Machine Learning Models 
+### Facial Expression Recognition with OpenFace and Neural Network
+![OpenFace](https://github.com/softMonkeys/Sim2Real/blob/master/Images/openface.PNG)
+Go to `MachineLearningCode` -> `baselineML` and open `.ipynb` files by [Google Colab)](https://colab.research.google.com/). Follow the documentation we have wrote in the code.
+
+### End-to-End Model
+![End-to-End](https://github.com/softMonkeys/Sim2Real/blob/master/Images/entoend.PNG)
+Go to `MachineLearningCode` -> `end_to_end_ML` and open .ipynb files by Google Colab. Follow the documentation we have wrote in the code.
